@@ -53,23 +53,7 @@ This project delivers end-to-end sales analytics for a multi-location coffee sho
 5. **Product Analytics**: Category and item-level sales breakdown
 6. **Hourly Heatmap**: Day-by-hour sales matrix for operational planning
 
-## 📁 Project Structure
 
-```
-coffee-shop-sales-analysis/
-├── data/
-│   └── coffee_shop_sales.csv
-├── sql/
-│   ├── data_transformation.sql
-│   ├── kpi_queries.sql
-│   └── analysis_queries.sql
-├── dashboard/
-│   └── Coffee_Shop_Sales_Dashboard.pbix
-├── documentation/
-│   ├── SQL_Queries_Documentation.pdf
-│   └── Dashboard_Screenshots.pdf
-└── README.md
-```
 
 ## 🔍 Key Insights Discovered
 
