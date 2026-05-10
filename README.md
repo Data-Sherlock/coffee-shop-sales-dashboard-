@@ -39,7 +39,7 @@ This project delivers end-to-end sales analytics for a multi-location coffee sho
 - Performance optimization with proper indexing
 
 ## 📈 Dashboard Features
-
+![Image Alt](https://github.com/Data-Sherlock/coffee-shop-sales-dashboard-/blob/7f3049998075f8fab0500967302638e5aeb560cf/Coffe%20shop%20sales%20analysis..png)
 ### KPI Cards with Trend Indicators
 - Real-time sales, orders, and quantity metrics
 - Visual MoM percentage change indicators
